@@ -138,3 +138,6 @@ dmypy.json
 # Singer assets
 catalog.json
 config.json
+
+# Intellij files
+.idea/
